@@ -24,7 +24,7 @@
 
 使用时可直接继承 BaseQueryDoc、BaseUpdateDoc、BaseDoc，**注意空值不会处理**
 
-实例参考：cn/wangz/mongo/adapter/Test.java
+实例参考：[cn/wangz/mongo/adapter/Test.java](/src/test/java/cn/wangz/mongo/adapter/Test.java)
 
 + cn.wangz.mongo.adapter.query.QueryDoc: 可查询接口
 + cn.wangz.mongo.adapter.update.UpdateDoc: 可更新接口
