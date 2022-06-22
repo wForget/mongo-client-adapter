@@ -13,7 +13,7 @@
         <encoding>utf-8</encoding>
         <lombok.version>1.18.10</lombok.version>
 
-        <mongo.version>3.12.0</mongo.version>
+        <mongo.version>3.12.8</mongo.version>
     </properties>
 
     <dependencies>
